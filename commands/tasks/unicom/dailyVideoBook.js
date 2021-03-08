@@ -547,7 +547,7 @@ var dailyVideoBook = {
 
     } while (--m > 0)
 
-    let concurrency = 2
+    let concurrency = 5
     console.info('开始执行阅读任务，阅读章节并发数', concurrency)
     let queue = new PQueue({ concurrency: concurrency });
     for (let task of tasks) {
