@@ -2368,7 +2368,7 @@ packages:
       integrity: sha1-HIK/D2tqZur85+8w43b0mhJHf2Y=
       tarball: yargs/download/yargs-16.2.0.tgz
 specifiers:
-  axios: ^0.21.0
+  axios: ^0.21.1
   axios-cookiejar-support: ^1.0.1
   cheerio: ^1.0.0-rc.3
   crypto: ^1.0.1
